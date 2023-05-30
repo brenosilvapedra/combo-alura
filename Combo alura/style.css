@@ -18,8 +18,32 @@ body{
 .texto{
     font-size: large;
     font-family: 'Roboto', sans-serif;
-    text-align: left;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
     display: flex;
+    padding-left: 50px;
+    padding-top: 45px;
+}
+
+#aluracombo-logo{
+
+    padding: 30px;
+    margin: 10px 50px 20px;
+}
+
+.aviso{
+
+    padding-top: 0px;
+    margin-left: 35px;
+    text-decoration-color: #abb1b8;
+
+}
+
+.botao-assinatura{
+    padding-left: 50px;
+}
+
+.botao1ano:hover{
+
+    transform: scale(15%);
 }
